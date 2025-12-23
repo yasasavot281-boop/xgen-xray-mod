@@ -22,7 +22,7 @@
 			"com.example.ExampleModClient"
 		]
 	},
-	"mixins": [
+	"mixins": ["xgen.mixins.json"],
 		"modid.mixins.json",
 		{
 			"config": "modid.client.mixins.json",
